@@ -36,6 +36,7 @@ A comprehensive, open-source **CMMC compliance checklist** for defense contracto
 - [Common CMMC Compliance Gaps](#common-cmmc-compliance-gaps)
 - [CMMC Timeline and Deadlines](#cmmc-timeline-and-deadlines)
 - [Additional Resources](#additional-resources)
+- [About the Author](#about-the-author)
 - [About](#about)
 
 ---
@@ -449,6 +450,10 @@ Self-assessment is a valuable starting point, but **the #1 reason defense contra
 
 > *"We went from zero documentation to assessment-ready in 90 days. Petronella's team knew exactly what the C3PAO would look for."* — Defense contractor, Fayetteville NC
 
+
+## About the Author
+
+**Craig Petronella** is the CEO of [Petronella Technology Group, Inc.](https://petronellatech.com) and [Amazon #1 Best-Selling Author](https://www.amazon.com/stores/author/B00PWED8E4) of 14+ cybersecurity books. With credentials including CMMC-RP, Cisco CCNA (Credential ID CSCO13961360), CWNE, Hubbell Certified, and Digital Forensic Examiner (License 604180-DFE), Craig brings 30+ years of experience in cybersecurity and AI.
 
 ## About
 
